@@ -6,3 +6,41 @@
   box-sizing: border-box;
   font-family: 'Outfit', sans-serif;
 }
+
+body {
+  background-color: black;
+}
+
+h1,
+h4,
+p,
+a {
+  color: white;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+.btn {
+  padding: 12px 32px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background-color: #e1ee1e;
+  color: white;
+  border: 1px solid gold;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btn-light {
+  background: transparent;
+  color: #fff;
+}
+
+.btn:hover {
+  background: grey;
+  color: white;
+  transition: 0.3s;
+}

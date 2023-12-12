@@ -1,4 +1,4 @@
-import { FaHome, FaMailBulk, FaPhone } from "react-icons/fa";
+import { FaFacebook, FaHome, FaInstagram, FaLinkedin, FaMailBulk, FaPhone } from "react-icons/fa";
 import "./Footer.css";
 
 import React from 'react'
@@ -33,11 +33,20 @@ const Footer = () => {
                         </h4>
                     </div>
 
-
                 </div>
 
-                <div className="right"></div>
+                <div className="right">
 
+                    <h4>About Myself</h4>
+                    <p>Hey, This is Gyanendra Prakash. I am Frontend Developer. I have good knowledge of HTML, CSS and Javascript.</p>
+
+                    <div className="social">
+                        <a href="https://www.facebook.com"><FaFacebook size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
+                        <a href="https://www.facebook.com"><FaInstagram size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
+                        <a href="https://www.facebook.com"><FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
+                    </div>
+
+                </div>
             </div>
         </div>
     )

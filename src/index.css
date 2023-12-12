@@ -26,12 +26,12 @@ ul {
 .btn {
   padding: 12px 32px;
   font-size: 1rem;
-  text-transform: uppercase;
   background-color: #e1ee1e;
   color: white;
   border: 1px solid gold;
   font-weight: 600;
   cursor: pointer;
+  border-radius: 8px;
 }
 
 .btn-light {

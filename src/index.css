@@ -26,9 +26,10 @@ ul {
 .btn {
   padding: 12px 32px;
   font-size: 1rem;
-  background-color: #e1ee1e;
-  color: white;
-  border: 1px solid gold;
+  /* background-color: #e1ee1e; */
+  background-color: #03696e;
+  color: #fff;
+  border: 1px solid #08b3bc;
   font-weight: 600;
   cursor: pointer;
   border-radius: 8px;
@@ -40,7 +41,7 @@ ul {
 }
 
 .btn:hover {
-  background: grey;
+  background: #2a388b;
   color: white;
   transition: 0.3s;
 }

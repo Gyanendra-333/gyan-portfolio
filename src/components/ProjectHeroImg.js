@@ -4,7 +4,14 @@ import React from 'react'
 
 const ProjectHeroImg = () => {
     return (
-        <div>ProjectHeroImg</div>
+        <div className="hero-img">
+
+            <div className="heading">
+                <h1>This is Heading</h1>
+                <p>This is Text</p>
+            </div>
+
+        </div>
     )
 }
 

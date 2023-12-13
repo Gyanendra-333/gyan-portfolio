@@ -15,7 +15,6 @@ class ProjectHeroImg extends Component {
             </div>
         )
     }
-
 }
 
 export default ProjectHeroImg;

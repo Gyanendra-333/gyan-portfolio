@@ -12,7 +12,7 @@ const WorkCard = () => {
             <div className="project-container">
                 <div className="project-card">
                     <img src={pro1} alt="img"></img>
-                    <h2 className="project-tittle">Project Title</h2>
+                    <h2 className="project-title">Project Title</h2>
                     <div className="pro-details">
                         <p>This is Text</p>
                         <div className="pro-btns">

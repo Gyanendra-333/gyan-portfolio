@@ -16,7 +16,7 @@ const HeroImg = () => {
                 <p>Hi , I Am A Front-End Developer.</p>
                 <h1>React Developer</h1>
                 <div>
-                    <Link to="/project" className="btn">Project</Link>
+                    <Link to="/project" className="btn" >Project</Link>
                     <Link to="/contact" className="btn btn-light">Contact</Link>
                 </div>
             </div>

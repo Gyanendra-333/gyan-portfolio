@@ -38,12 +38,12 @@ const Footer = () => {
                 <div className="right">
 
                     <h4>About Myself</h4>
-                    <p>Hey, This is Gyanendra Prakash. I am Frontend Developer. I have good knowledge of HTML, CSS and Javascript.</p>
+                    <p>Hello, I am Gyanendra Prakash. I am Frontend Developer. I have good knowledge of HTML, CSS, Javascript, React Js, Bootstrap and Basic DSA. And I have also Basic knowledge of Computer Networks, Operating System and DBMS.</p>
 
                     <div className="social">
-                        <a href="https://www.facebook.com"><FaFacebook size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
-                        <a href="https://www.facebook.com"><FaInstagram size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
-                        <a href="https://www.facebook.com"><FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
+                        <a target="_blank" href="https://www.facebook.com"><FaFacebook size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
+                        <a target="_blank" href="https://www.facebook.com"><FaInstagram size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
+                        <a target="_blank" href="https://www.linkedin.com/in/gyanendra-prakash-b625b0215/"><FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
                     </div>
 
                 </div>

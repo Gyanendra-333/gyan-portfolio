@@ -13,8 +13,8 @@ const Footer = () => {
                     <div className="location">
                         <FaHome size={20} style={{ color: "#fff", marginRight: "2rem" }} />
                         <div>
-                            <p> <strong>Madhuvan Colony , </strong></p>
-                            <p><strong>Shahjahanpur , Uttar Pradesh.</strong></p>
+                            <p> <strong>Vrindavan Colony , </strong></p>
+                            <p><strong>Bareilly , Uttar Pradesh.</strong></p>
                             <p><strong>India</strong></p>
                         </div>
                     </div>

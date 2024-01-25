@@ -38,7 +38,7 @@ const Footer = () => {
                 <div className="right">
 
                     <h4>About Something Myself -</h4>
-                    <p>Hello, I am Gyanendra Prakash. I am Frontend Developer. I have good knowledge of HTML, CSS, Javascript, React Js, Bootstrap and Basic DSA. And I have also Basic knowledge of Computer Networks, Operating System and DBMS.</p>
+                    <p>Hello, I am Gyanendra Prakash. I am Frontend Developer. I have good knowledge of HTML, CSS, JavaScript, React Js, Bootstrap and Basic DSA. And I have also Basic knowledge of Computer Networks, Operating System and DBMS.</p>
 
                     <div className="social">
                         <a target="_blank" href="https://www.facebook.com"><FaFacebook size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>

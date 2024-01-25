@@ -7,7 +7,7 @@
 
 .hero-img::before {
     content: "";
-    background-image: url("https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png");
+    background-image: url("../assets/img02.png");
     background-size: cover;
     background-position: center top;
     height: 100%;

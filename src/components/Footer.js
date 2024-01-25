@@ -37,7 +37,7 @@ const Footer = () => {
 
                 <div className="right">
 
-                    <h4>About Myself</h4>
+                    <h4>About Something Myself -</h4>
                     <p>Hello, I am Gyanendra Prakash. I am Frontend Developer. I have good knowledge of HTML, CSS, Javascript, React Js, Bootstrap and Basic DSA. And I have also Basic knowledge of Computer Networks, Operating System and DBMS.</p>
 
                     <div className="social">
